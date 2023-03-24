@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FinalProjectCalTax</string>
+    <string-array name="status">
+        <item>โสด</item>
+        <item>หย่า</item>
+        <item>คู่สมรสมีเงินได้(แยกยื่น)</item>
+        <item>คู่สมรสไม่มีเงินได้</item>
+    </string-array>
+</resources>
